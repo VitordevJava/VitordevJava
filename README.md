@@ -3,7 +3,7 @@
 Aqui está algumas das minhas redes sociais, e contato! 👇
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viitorcrv/)
-[![Linkenln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorcrv/?trk=opento_sprofile_details)
+[![Linkenln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorcrv/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitordev.java@gmail.com)
 
 Sou um estudante de Engenharia de Software na Uniceplac e desenvolvedor na área de Engenharia de Software na Dinâmica Contabilidade. Apaixonado tanto por back-end (com foco em Java) quanto por front-end, estou sempre em busca de novas oportunidades para aprender e compartilhar conhecimentos. 📌
