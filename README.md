@@ -1,4 +1,4 @@
-### Olá! Sou Vitor Carvalho 👋 Sejam bem vindos ao meu GitHub
+### Olá! Sou Vitor Carvalho 👋
 ### System.out.println("Sejam bem vindos ao meu GitHub")
 Aqui está algumas das minhas redes sociais, e contato! 👇
 
