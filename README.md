@@ -17,7 +17,7 @@ Aqui você encontrará projetos que refletem minha jornada como desenvolvedor, o
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SPRING BOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSql-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitordevJava&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="VitordevJava"/>
