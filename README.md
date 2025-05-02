@@ -21,4 +21,4 @@ Aqui você encontrará projetos que refletem minha jornada como desenvolvedor, o
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VitordevJava&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="VitordevJava"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VitordevJava&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40?v=12345" alt="VitordevJava"/>
